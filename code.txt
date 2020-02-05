@@ -1,2 +1,7 @@
 int x=5;
+<<<<<<< HEAD
 int x=70;
+||||||| merged common ancestors
+=======
+
+>>>>>>> experiment
